@@ -58,3 +58,7 @@ API_PORT=8001   # 同事 A
 API_PORT=8002   # 同事 B
 API_PORT=8003   # 同事 C
 ```
+
+## 分享投影片
+
+→ [FAST_API_GUIDE.pdf](./FAST_API_GUIDE.pdf)
