@@ -1,0 +1,12 @@
+version: "3.9"
+
+services:
+  api:
+    build: .
+    ports:
+      - "8007:8007"
+    env_file:
+      - .env
+    volumes:
+      - .:/app          # 開發時 hot reload 用，production 可拿掉
+    restart: unless-stopped
