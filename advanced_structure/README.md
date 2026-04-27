@@ -52,3 +52,7 @@ docker compose up -d
 | 適合 | 快速 demo、個人工具 | 多人協作、準備部署 |
 | 改邏輯 | 直接改 app.py | 只改 core/scorer.py |
 | Docker | ❌ | ✅ |
+
+## Docker 部署細節
+
+→ 見 [DOCKER.md](./DOCKER.md)
