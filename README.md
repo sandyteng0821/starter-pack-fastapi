@@ -62,3 +62,7 @@ API_PORT=8003   # 同事 C
 ## 分享投影片
 
 → [FAST_API_GUIDE.pdf](./FAST_API_GUIDE.pdf)
+
+## 背景知識補充
+
+→ 沒有 Docker 或網路開發背景的人可以看 [BACKGROUND.md](./BACKGROUND.md)
